@@ -1,1 +1,2 @@
 hello i am pratik
+I am learning GitHub and Git
